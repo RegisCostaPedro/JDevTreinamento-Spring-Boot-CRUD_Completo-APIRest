@@ -40,7 +40,7 @@
         <li>Depois digite: git clone https://github.com/RegisCostaPedro/JDevTreinamento-Spring-Boot-CRUD_Completo-APIRest.git .</li>
          <li>Após o projeto ser clonado, abra sua IDE e selecione sua pasta, caso você use o Vs code, recomendo baixar as extensões necessárias para rodar o java na sua IDE.</li>
          <li>No seu postgres crie um banco de dados com o nome de: spring-boot-jdevtreinamento.</li>
-           <ul><strong>Obs</strong>: No arquivo 'application.properties a porta do meu banco de dados esta '5433', caso aconteça algum erro relacionado a isso recomendo mudar a porta para '5433', que é a porta nativa do Postgres. </ul> 
+           <ul><strong>Obs</strong>: No arquivo 'application.properties a porta do meu banco de dados está '5433', caso aconteça algum erro relacionado a isso recomendo mudar a porta do seu Postgres para '5433', que é a porta nativa do Postgres. </ul> 
          <li>Após seguir esses passos você pode rodar seu programa e acessar o site pela URL: http://localhost:8080/springboot-rest-api-sample .</li>
 </ol>
 
